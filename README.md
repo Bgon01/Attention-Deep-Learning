@@ -15,12 +15,14 @@ Implementing self attention, convolutional attention, multihead attention onto c
 - LSTM (~60%)
 - CNN + LSTM (~80%)
 - CNN + Bidirectional LSTM (86%)
-- Attention methods used with CNN:
+
+Attention methods used with CNN:
 - CNN + Convolution Attention (72%) 
 - CNN + Self Dot Product Attention (74%)
 - CNN + Multihead Attention (74%)
 - Ensemble Techniques (Majority voting) (88%)
-- Attention methods used with Alexnet:
+
+Attention methods used with Alexnet:
 - Alexnet + Convolution Attention (65%)
 - Alexnet + Self Dot Product Attention (65%)
 - AlexNet (~77%)
